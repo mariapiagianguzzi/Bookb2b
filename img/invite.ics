@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20210409T080000Z
+DTEND:20210409T083000Z
+DTSTAMP:20210407T095849Z
+ORGANIZER;CN=recruiting2@talent4gig.com:mailto:recruiting2@talent4gig.com
+UID:5611d6nnq2q094lf7djv2b497g@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=piagianguzzi@gmail.com;X-NUM-GUESTS=0:mailto:piagianguzzi@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=recruiting2@talent4gig.com;X-NUM-GUESTS=0:mailto:recruiting2@talent4gig
+ .com
+X-MICROSOFT-CDO-OWNERAPPTID:2021695868
+CREATED:20210407T095846Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nNon modificare questa sezione della descrizione.\
+ n\nQuesto evento include una videochiamata.\nPartecipa: https://meet.google
+ .com/gvk-jkki-fux\n(KE) +254 20 3893887 PIN: 5767844231541#\nVisualizza alt
+ ri numeri di telefono: https://tel.meet/gvk-jkki-fux?pin=5767844231541&hs=7
+ \n\nVisualizza il tuo evento in https://calendar.google.com/calendar/event?
+ action=VIEW&eid=NTYxMWQ2bm5xMnEwOTRsZjdkanYyYjQ5N2cgcGlhZ2lhbmd1enppQG0&tok
+ =MjYjcmVjcnVpdGluZzJAdGFsZW50NGdpZy5jb21lNjJiMWE2MzJiMDFiNTIyZGRjMjg5ODc1MW
+ YyMGNmOGRkMTdiNWJm&ctz=Europe%2FRome&hl=it&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210407T095847Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:OGGETTO: Richiesta colloquio conoscitvo per posizione  Fullstack We
+ b Developer
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
